@@ -1,0 +1,8 @@
+/Gulp/node_modules/
+/Gulp/node_modules/*
+/Gulp/.sass-cache/
+/Gulp/.sass-cache/*
+/Gulp/.gulp/
+/Gulp/.gulp/*
+/Content/sass/.sass_cache/
+/Content/sass/.sass_cache/*

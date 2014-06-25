@@ -1,0 +1,19 @@
+{
+  "name": "dojo-gulp",
+  "version": "0.0.1",
+  "description": "Criando um gulpfile simples",
+  "main": "gulpfile.js",
+  "author": "princi",
+  "license": "WTF",
+  "dependencies": {
+    "gulp": "~3.6.2",
+    "gulp-compass": "~1.1.8",
+    "gulp-imagemin": "~0.5.0",
+    "browser-sync": "~0.9.1",
+    "gulp-tinypng": "~1.0.2",
+    "gulp-changed": "~0.4.0",
+    "gulp-concat": "~2.2.0",
+    "gulp-uglify": "~0.3.0",
+    "gulp-w3cjs": "~0.2.0"
+  }
+}
